@@ -1,0 +1,41 @@
+/* ESTILO BASE */
+body{
+    background-color: #F1BA88;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.class{
+    max-width: 90%;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px; 
+    text-align: center;
+}
+
+/* CONTENEDOR CENTRADO */
+.container {
+    max-width: 90%;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+/* TITULO */
+h1 {
+    color: #0717fa;
+    font-size: 2rem;
+}
+
+/* IMAGEN RESPONSIVE  */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+
